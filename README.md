@@ -1,5 +1,16 @@
-# stories
-Many years ago in a small Indian village, a farmer had the misfortune Of owing a large sum of money to a village moneylender.
+# Stories for the children
+
+> Click :star:if you like the project.
+
+### Table of Contents
+
+| No. | Stories |
+|---- | ---------
+|1 | [Clever girl, father and the Landlord](#clever-girl-father-and-the-landlord)|
+
+1. ### Clever girl, father and the Landlord
+
+    Many years ago in a small Indian village, a farmer had the misfortune Of owing a large sum of money to a village moneylender.
 
 The Moneylender , who was old and ugly, fancied the farmer’s beautiful daughter. So he proposed a bargain.
 
@@ -41,3 +52,8 @@ Since the remaining pebble is black, it must be assumed that she had picked the 
 
 MORAL OF THE STORY:
 Most complex problems do have a solution. It is only that we don’t attempt to think.
+
+  **[⬆ Back to Top](#table-of-contents)**
+
+
+

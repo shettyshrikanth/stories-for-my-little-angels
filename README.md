@@ -52,6 +52,11 @@
 
     MORAL OF THE STORY:
     Most complex problems do have a solution. It is only that we don’t attempt to think.
+    
+|2 | [Kafka And Little Girl](#kafka-and-little-girl)|
+
+2. ### Kafka And Little Girl
+At 40, Franz Kafka (1883-1924), who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully.<br> Kafka told her to meet him there the next day and they would come back to look for her.<br> The next day, when they had not yet found the doll, Kafka gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."<br> Thus began a story which continued until the end of Kafka's life.<br> During their meetings, Kafka read the letters of the doll carefully written with adventures and conversations that the girl found adorable.<br> Finally, Kafka brought back the doll (he bought one) that had returned to Berlin.<br> "It doesn't look like my doll at all," said the girl.<br> Kafka handed her another letter in which the doll wrote: "my travels have changed me." the little girl hugged the new doll and brought the doll with her to her happy home.<br> A year later Kafka died.<br> Many years later, the now-adult girl found a letter inside the doll. In the tiny letter signed by Kafka it was written:<br> "Everything you love will probably be lost, but in the end, love will return in another way."<br> Embrace the change. It's inevitable for growth. Together we can shift pain into wonder and love, but it is up to us to consciously and intentionally create that connection
 
   **[⬆ Back to Top](#table-of-contents)**
 

@@ -1,6 +1,6 @@
 # Stories for the children
 
-> [Panchatantra stories][https://www.tell-a-tale.com/10-short-panchatantra-stories-must-read-4-6-year-old-kids/]
+> [Panchatantra stories](https://www.tell-a-tale.com/10-short-panchatantra-stories-must-read-4-6-year-old-kids/)
 
 ### Table of Contents
 

@@ -9,19 +9,17 @@
 |1 | [Clever girl, father and the Landlord](#clever-girl-father-and-the-landlord)|
 |2 | [Kafka And Little Girl](#kafka-and-little-girl)|
 
-### Clever girl, father and the Landlord
+## Clever girl, father and the Landlord
 
-Many years ago in a small Indian village, a farmer had the misfortune of owing a large sum of money to a village moneylender.
-
+Many years ago in a small Indian village, a farmer had the misfortune of owing a large sum of money to a village moneylender. <br />
 The Moneylender , who was old and ugly, fancied the farmer’s beautiful daughter. So, he proposed a bargain.
-He said he would forgo the farmer’s debt if he could marry his daughter. 
-
+He said he would forgo the farmer’s debt if he could marry his daughter. <br />
 Both the farmer and his daughter were horrified by the proposal. So, the cunning money-lender suggested that they let providence decide the matter.
-He told them that he would put a black Pebble and a white pebble into an empty money bag. Then the girl would Have to pick one pebble from the bag.
+He told them that he would put a black Pebble and a white pebble into an empty money bag. Then the girl would Have to pick one pebble from the bag.<br />
 
-- If she picked the black pebble, she would become his wife and her father’s debt would be forgiven.
-- If she picked the white pebble she need not marry him and her father’s debt would still be forgiven.
-- But if she refused to pick a pebble, her father would be thrown into Jail.
+- If she picked the black pebble, she would become his wife and her father’s debt would be forgiven
+- If she picked the white pebble she need not marry him and her father’s debt would still be forgiven
+- But if she refused to pick a pebble, her father would be thrown into Jail
 
 They were standing on a pebble strewn path in the farmer’s field. As They talked, the moneylender bent over to pick up two pebbles. As he Picked them up, the sharp-eyed girl noticed that he had picked up two Black pebbles and put them into the bag.
 
@@ -31,9 +29,9 @@ Now, imagine that you were standing in the field. What would you have Done if yo
 
 Careful analysis would produce three possibilities:
 
-  1. The girl should refuse to take a pebble. 
-  2. The girl should show that there were two black pebbles in the bag And expose the money-lender as a cheat.
-  3. The girl should pick a black pebble and sacrifice herself in order to save her father from his debt and imprisonment.
+  - The girl should refuse to take a pebble. 
+  - The girl should show that there were two black pebbles in the bag And expose the money-lender as a cheat.
+  - The girl should pick a black pebble and sacrifice herself in order to save her father from his debt and imprisonment.
 
   Take a moment to ponder over the story. The above story is used with the hope that it will make us appreciate the difference between lateral and logical thinking.
 
@@ -47,42 +45,52 @@ Careful analysis would produce three possibilities:
 
   Since the remaining pebble is black, it must be assumed that she had picked the white one. And since the money-lender dared not admit his dishonesty, the girl changed what seemed an impossible situation into an extremely advantageous one.
 
-  MORAL OF THE STORY:
-  Most complex problems do have a solution. It is only that we don’t attempt to think.
-```
 
-### Kafka And Little Girl
-    At 40, Franz Kafka (1883-1924), who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully. 
-    Kafka told her to meet him there the next day and they would come back to look for her. 
-    The next day, when they had not yet found the doll, Kafka gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."
-    Thus began a story which continued until the end of Kafka's life.
-    During their meetings, Kafka read the letters of the doll carefully written with adventures and conversations that the girl found adorable.
-    Finally, Kafka brought back the doll (he bought one) that had returned to Berlin.
-    "It doesn't look like my doll at all," said the girl.<br> Kafka handed her another letter in which the doll wrote: "my travels have changed me." the little girl hugged the new doll and brought the doll with her to her happy home. 
-    A year later Kafka died.
-    Many years later, the now-adult girl found a letter inside the doll. In the tiny letter signed by Kafka it was written: 
-    "Everything you love will probably be lost, but in the end, love will return in another way."
-    Embrace the change. It's inevitable for growth. Together we can shift pain into wonder and love, but it is up to us to consciously and intentionally create that connection
+_**MORAL OF THE STORY**:
+  Most complex problems do have a solution. It is only that we don’t attempt to think_
+
+## Kafka And Little Girl
+Franz Kafka, who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully.
+
+
+Kafka told her to meet him there the next day and they would come back to look for her. The next day, when they had not yet found the doll, Kafka gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."
+    
+
+Thus began a story which continued until the end of Kafka's life. During their meetings, Kafka read the letters of the doll carefully written with adventures and conversations that the girl found adorable. Finally, Kafka brought back the doll (he bought one) that had returned to Berlin.
+    
+
+"It doesn't look like my doll at all," said the girl.<br> Kafka handed her another letter in which the doll wrote: "my travels have changed me." the little girl hugged the new doll and brought the doll with her to her happy home. 
+
+
+A year later Kafka died. Many years later, the now-adult girl found a letter inside the doll. In the tiny letter signed by Kafka it was written: <br />
+**"_Everything you love will probably be lost, but in the end, love will return in another way._"**
+   
+
+Embrace the change. It's inevitable for growth. Together we can shift pain into wonder and love, but it is up to us to consciously and intentionally create that connection
 
   **[⬆ Back to Top](#table-of-contents)**
 
 
-1) The Golden Touch of Midas
-Once upon a time, there was a Greek King, Midas.
-He was very rich and had lots of Gold. He had a daughter, who he loved a lot.
-One day, Midas found an angel in need of help. He helped her and in return she agreed to grant a wish.
-Midas wished that everything he touched would turn into gold. His wish was granted
-On his way home, he touched rocks and plants and they turned into gold.
-As he reached home, in excitement he hugged his daughter, who turned into gold.
+
+## The Golden Touch of Midas
+Once upon a time, there was a Greek King, Midas. He was very rich and had lots of Gold. He had a daughter, who he loved a lot.
+
+
+One day, Midas found an angel in need of help. He helped her and in return she agreed to grant a wish. Midas wished that everything he touched would turn into gold. His wish was granted
+
+
+On his way home, he touched rocks and plants and they turned into gold. As he reached home, in excitement he hugged his daughter, who turned into gold.
+
+
 Midas was devastated and he had learnt his lesson. Upon learning his lesson, Midas asked the angel to take his wish away.
 
 
-Moral of the story
-Greed is not good for you. Be content and satisfied to lead a happy and fulfilling life
+**_Moral of the story
+Greed is not good for you. Be content and satisfied to lead a happy and fulfilling life_**
 
  
 
-2) The Tortoise and the Hare
+## The Tortoise and the Hare
 
 This is an extremely popular story about a hare and a tortoise.
 The hare is an animal that is known to move quickly, while a tortoise is one to move slowly.
@@ -92,23 +100,32 @@ Meanwhile the tortoise, who was extremely determined and dedicated to the race w
 The tortoise won the race while the hare napped. Most importantly he did it with humility and without arrogance.
 
 
-Moral of the story
-When you work hard and persevere, you can achieve your goals. Slow and steady wins the race.
+**_Moral of the story
+When you work hard and persevere, you can achieve your goals. Slow and steady wins the race_**
 
 
 
-3) The Boy who cried wolf
+## The Boy who cried wolf
 A farmer asked his son to take their herd of sheep grazing every day.
-While the boy watched over the sheep, he got bored and decided to have some fun.
-So, he shouted, “Wolf! Wolf!”. Upon hearing this the villagers ran to help him chase the Wolf away.
+
+
+While the boy watched over the sheep, he got bored and decided to have some fun. So, he shouted, “Wolf! Wolf!”. Upon hearing this the villagers ran to help him chase the Wolf away.
+
+
 As they reached him, they realized that there was no Wolf and he was just kidding. The villagers were furious and they yelled at the boy for creating chaos and panic.
+
+
 On the next day and the boy shouted “Wolf!” again and once again the villagers came to help him and saw that there was no wolf. This made them very angry again.
+
+
 On the same day, the boy saw an actual Wolf that has terrorizing the sheep. The boy cried “Wolf! Wolf! please help me” and no villagers showed up as they believed that the boy was joking again.
 
-Moral of the story
-Don’t play with people’s trust, when it matters the most, they won’t believe you.
+**_Moral of the story
+Don’t play with people’s trust, when it matters the most, they won’t believe you_**
 
-4) The Three Little Pigs
+
+
+## The Three Little Pigs
 
 Three Little pigs was sent out into the world by their mother to learn.
 
@@ -119,11 +136,13 @@ The third pig was hardworking and he put in lots of effort and built a house of 
 One day a wolf came to attack them. He huffed and puffed and blew the house of straw.
 He then huffed and puffed and blew the house the sticks.
 He huffed and puffed and huffed and puffed at the house of bricks but eventually was out of breath and left.
-Moral of the story
-Always work hard and it will pay off. Don’t try to take shortcuts to make things work.
+
+**_Moral of the story
+Always work hard and it will pay off. Don’t try to take shortcuts to make things work_**
  
 
-5) The Fox and the Stork
+
+## The Fox and the Stork
 
 Once there was a Fox and a stork. The Fox was selfish but he decided to invite the stork for dinner. The Stork was extremely happy to be invited and she reached his house on time.
 
@@ -133,12 +152,11 @@ The next day, the Stork invited the fox over for dinner. She Served him soup as 
 
  
 
-Moral of the Story
+**_Moral of the Story
+Don’t be selfish because it will come back to you at some point_**
 
-Don’t be selfish because it will come back to you at some point
 
-
-6) The Ant and the Grasshopper
+## The Ant and the Grasshopper
 The ant and the grasshopper were best friends with very different personalities.
 The grasshopper would spend his days sleeping or playing his guitar while the ant would collect food and build his ant hill. 
 
@@ -151,22 +169,22 @@ Soon winter came making the days and nights cold. One day the colony of ants wer
 
 The grasshopper was so busy singing and sleeping  that he didn't have enough food to last winter. The grasshopper realized his mistake.
 
-Moral of the Story
-
-Make use of opportunity while you have it
+**_Moral of the Story
+Make use of opportunity while you have it_**
  
-Moral Stories from India
 
 
-7) Be wise while counting
+## Be wise while counting
 One day in Akbar’s court someone asked the question, "How many crows are there in the city?", No one had the answer.
+
 Birbal quickly replied "Four thousand three hundred and twelve". He was asked how did he know this?
+
 Birbal send " Send your man out to count the crows. If it is lesser than this number then some crows are visiting their families elsewhere and if it is more than this number, then some crows from outside are visiting their families here. Akbar was very happy with the answer and showered Birbal with gifts for his wit.
  
-Moral of the story:
-Sometimes you have to learn to think outside of the box.
+**_Moral of the story:
+Sometimes you have to learn to think outside of the box_**
  
-8) The Monkey and the Crocodile
+## The Monkey and the Crocodile
 This is a story from Panchatantra.
 A monkey lived on a berry tree on the River Bank. Once he saw a crocodile under the tree who looked hungry and tired. He gave the crocodile some berries, the crocodile thanked the monkey and became one of his friends. 
 The monkey would give berries to the crocodile every day. One day the monkey even gave the crocodile extra berries to take to his wife.
@@ -175,11 +193,11 @@ On the next day, the crocodile went to the monkey and said that his wife had cal
 The monkey had to think quickly if he wanted to save himself. He told the crocodile that he left his heart at on the berry tree and that they needed to return.
 On reaching the monkey climbed the tree and spoke. "I'm not getting down; you betrayed my trust and that means our friendship is over"
 
-Moral of the story
-Never betray someone who trusts you and choose your friends wisely.
+**_Moral of the story
+Never betray someone who trusts you and choose your friends wisel_**
 
 
-9) The foolish thief
+## The foolish thief
 One day, a wealthy man came to Akbar's court in hope to get help from Birbal. The man suspected that one of his servants had stolen from him.
 
 
@@ -191,11 +209,11 @@ The next day, all the servants gathered around Birbal. He noticed that one of th
 
 The thief had cut the stick shorter by three inches as he thought it would grow three inches. Because of this his guilt was proven
 
-Moral of the story
-The truth will always come out one way or another so better to be truthful from the beginning.
+**_Moral of the story
+The truth will always come out one way or another so better to be truthful from the beginning._**
 
 
-10) The Brahmin’s dream
+## The Brahmin’s dream
 A poor Brahmin lived in a village all alone. He had no friends or relatives. He was known for being stingy and he used to beg for a living. The food he got as alms were kept in an earthen pot which was hung beside his bed. This allowed him to easily access the food when he got hungry.  
 
 
@@ -206,11 +224,11 @@ This money would help him get married to a rich woman and together they would ha
 Wrapped up in his dream the Brahmin picked up the stick near his bed and started hitting  the air with the stick. While flailing about, he hit the earthen pot with the stick, the pot broke and all the contents spilled over him. The Brahmin woke up with a start only to realize that everything was a dream.
 
 
-Moral of the story
-One should not build castles in the air.
+**_Moral of the story
+One should not build castles in the air._**
 
 
-11) The Stork and the Crab
+## The Stork and the Crab
 An old Stork lived on the side of a fish pond. He was too old to fish any longer, and he had to come up with an idea for food. Suddenly, he had a great idea.
 He stood in the water with a sad face. A crab came up to him and ask him why he was so unhappy.
 
@@ -223,11 +241,11 @@ He would take a couple of fish in his beak and fly away towards another pond. On
 Now it was the crab’s turn. As they were flying the crab looked down but could not see a pond however he saw a lot of fish bones. The crab immediately realized what was happening and grabbed the stork’s throat tight with his sharp claws. The stork struggled to get free. But the crab held on. Soon the stork fell to the ground. The crab crawled back to his pond to tell the story to the rest of the pond creatures.
 
 
-Moral of the story
-Too much greed is bad for you and will only cause you harm
+**_Moral of the story
+Too much greed is bad for you and will only cause you harm_**
 
 
-12) The Blue Jackal Story:
+## The Blue Jackal Story:
 Once there was an adventurous jackal who frequently strayed into the village looking for food. The Village was filled with dogs that scared the jackal. Although he was scared of the dogs, the jackal loved food and travelled to the city again and again.
 
 
@@ -261,7 +279,7 @@ But one day the banned pack of jackals was walking around the forest and howling
 Because of this mistake, the other animals quickly identified him as a jackal and destroyed him.
 
 
-Moral of the story:
-Be true to yourself and don’t pretend to be someone you are not
+**_Moral of the story:
+Be true to yourself and don’t pretend to be someone you are not_**
 
 

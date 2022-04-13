@@ -10,7 +10,7 @@
 |2 | [Kafka And Little Girl](#kafka-and-little-girl)|
 
 ### Clever girl, father and the Landlord
-<span style="font-size: x-small;">
+
 Many years ago in a small Indian village, a farmer had the misfortune of owing a large sum of money to a village moneylender.
 
 The Moneylender , who was old and ugly, fancied the farmer’s beautiful daughter. So, he proposed a bargain.
@@ -31,9 +31,9 @@ Now, imagine that you were standing in the field. What would you have Done if yo
 
 Careful analysis would produce three possibilities:
 
-*  1. The girl should refuse to take a pebble. 
-*  2. The girl should show that there were two black pebbles in the bag And expose the money-lender as a cheat.
-*  3. The girl should pick a black pebble and sacrifice herself in order to save her father from his debt and imprisonment.
+  1. The girl should refuse to take a pebble. 
+  2. The girl should show that there were two black pebbles in the bag And expose the money-lender as a cheat.
+  3. The girl should pick a black pebble and sacrifice herself in order to save her father from his debt and imprisonment.
 
   Take a moment to ponder over the story. The above story is used with the hope that it will make us appreciate the difference between lateral and logical thinking.
 
@@ -49,7 +49,7 @@ Careful analysis would produce three possibilities:
 
   MORAL OF THE STORY:
   Most complex problems do have a solution. It is only that we don’t attempt to think.
-</span>
+```
 
 ### Kafka And Little Girl
     At 40, Franz Kafka (1883-1924), who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully. 

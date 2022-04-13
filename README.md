@@ -10,7 +10,7 @@
 |2 | [Kafka And Little Girl](#kafka-and-little-girl)|
 
 ### Clever girl, father and the Landlord
-<span style="font-size: small; ">
+<span style="font-size: x-small;">
 Many years ago in a small Indian village, a farmer had the misfortune of owing a large sum of money to a village moneylender.
 
 The Moneylender , who was old and ugly, fancied the farmer’s beautiful daughter. So, he proposed a bargain.
@@ -49,9 +49,9 @@ Careful analysis would produce three possibilities:
 
   MORAL OF THE STORY:
   Most complex problems do have a solution. It is only that we don’t attempt to think.
-
 </span>
-`### Kafka And Little Girl`
+
+### Kafka And Little Girl
     At 40, Franz Kafka (1883-1924), who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully. 
     Kafka told her to meet him there the next day and they would come back to look for her. 
     The next day, when they had not yet found the doll, Kafka gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."

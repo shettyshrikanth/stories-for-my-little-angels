@@ -6,8 +6,20 @@
 
 | No. | Stories |
 |---- | ---------
-|1 | [Clever girl, father and the Landlord](#clever-girl-father-and-the-landlord)|
-|2 | [Kafka And Little Girl](#kafka-and-little-girl)|
+|1 | [Wise girl, father and the Landlord](#wise-girl-father-and-the-landlord)|
+|2 | [Ravitheja And Little Girl](#ravitheja-and-little-girl)|
+|2 | [The Golden Touch of Midas](#the-golden-touch-of-midas)|
+|2 | [The Tortoise and the Hare](#the-tortoise-and-the-hare)|
+|2 | [The Boy who cried wolf](#the-boy-who-cried-wolf)|
+|2 | [Three Little Pigs](#three-little-pigs)|
+|2 | [The Fox and the Stork](#the-fox-and-the-stork)|
+|2 | [The Ant and the Grasshopper](#the-ant-and-the-grasshopper)|
+|2 | [Be wise while counting](#be-wise-while-counting)|
+|2 | [The Monkey and the Crocodile](#the-monkey-and-the-crocodile)|
+|2 | [The foolish thief](#the-foolish-thief)|
+|2 | [The Brahmin’s dream](#the-brahmin's-dream)|
+|2 | [The Stork and the Crab](#the-stork-and-the-crab)|
+|2 | [The Blue Jackal](#the-blue-jackal)|
 
 ## Wise girl, father and the Landlord
 
@@ -131,7 +143,7 @@ Don’t play with people’s trust, when it matters the most, they won’t belie
 
 
 
-## The Three Little Pigs
+## Three Little Pigs
 Once upon a time there lived three little piggies ena, mina and tika. One day their mother send them out into the world to learn.
 
 
@@ -283,7 +295,7 @@ _**Moral of the story**
 Too much greed is bad for you and will only cause you harm_
 
 
-## The Blue Jackal Story
+## The Blue Jackal
 Once there was an adventurous jackal who frequently strayed into the village looking for food. 
 
 The Village was filled with dogs that scared the jackal. Although he was scared of the dogs, the jackal loved food and travelled to the city again and again.

@@ -9,10 +9,10 @@
 |1 | [Clever girl, father and the Landlord](#clever-girl-father-and-the-landlord)|
 |2 | [Kafka And Little Girl](#kafka-and-little-girl)|
 
-## Clever girl, father and the Landlord
+## Wise girl, father and the Landlord
 
 Many years ago in a small Indian village, a farmer had the misfortune of owing a large sum of money to a village moneylender. <br />
-The Moneylender , who was old and ugly, fancied the farmer’s beautiful daughter. So, he proposed a bargain.
+The Moneylender, who was old and ugly, fancied the farmer’s beautiful daughter named Sumati. So, he proposed a bargain.
 He said he would forgo the farmer’s debt if he could marry his daughter. <br />
 Both the farmer and his daughter were horrified by the proposal. So, the cunning money-lender suggested that they let providence decide the matter.
 He told them that he would put a black Pebble and a white pebble into an empty money bag. Then the girl would Have to pick one pebble from the bag.<br />
@@ -46,23 +46,25 @@ Careful analysis would produce three possibilities:
   Since the remaining pebble is black, it must be assumed that she had picked the white one. And since the money-lender dared not admit his dishonesty, the girl changed what seemed an impossible situation into an extremely advantageous one.
 
 
-_**MORAL OF THE STORY**:
+_**MORAL OF THE STORY** <br />
   Most complex problems do have a solution. It is only that we don’t attempt to think_
 
-## Kafka And Little Girl
-Franz Kafka, who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully.
 
 
-Kafka told her to meet him there the next day and they would come back to look for her. The next day, when they had not yet found the doll, Kafka gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."
+## Ravitheja And Little Girl
+Ravitheja, who never married and had no children, walked through the park in Mumbai when he met a girl who was crying because she had lost her favourite doll. She and Ravitheja searched for the doll unsuccessfully.
+
+
+Ravitheja told her to meet him there the next day and they would come back to look for her. The next day, when they had not yet found the doll, Ravitheja gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."
     
 
-Thus began a story which continued until the end of Kafka's life. During their meetings, Kafka read the letters of the doll carefully written with adventures and conversations that the girl found adorable. Finally, Kafka brought back the doll (he bought one) that had returned to Berlin.
+Thus began a story which continued until the end of Ravitheja's life. During their meetings, Ravitheja read the letters of the doll carefully written with adventures and conversations that the girl found adorable. Finally, Ravitheja brought back the doll (he bought one) that had returned to Mumbai.
     
 
-"It doesn't look like my doll at all," said the girl.<br> Kafka handed her another letter in which the doll wrote: "my travels have changed me." the little girl hugged the new doll and brought the doll with her to her happy home. 
+"It doesn't look like my doll at all," said the girl.<br> Ravitheja handed her another letter in which the doll wrote: "my travels have changed me." the little girl hugged the new doll and brought the doll with her to her happy home. 
 
 
-A year later Kafka died. Many years later, the now-adult girl found a letter inside the doll. In the tiny letter signed by Kafka it was written: <br />
+A year later Ravitheja died. Many years later, the now-adult girl found a letter inside the doll. In the tiny letter signed by Ravitheja it was written: <br />
 **"_Everything you love will probably be lost, but in the end, love will return in another way._"**
    
 
@@ -73,7 +75,7 @@ Embrace the change. It's inevitable for growth. Together we can shift pain into 
 
 
 ## The Golden Touch of Midas
-Once upon a time, there was a Greek King, Midas. He was very rich and had lots of Gold. He had a daughter, who he loved a lot.
+Once upon a time, there was a Indian King, Midas. He was very rich and had lots of Gold. He had a daughter, who he loved a lot.
 
 
 One day, Midas found an angel in need of help. He helped her and in return she agreed to grant a wish. Midas wished that everything he touched would turn into gold. His wish was granted
@@ -85,23 +87,27 @@ On his way home, he touched rocks and plants and they turned into gold. As he re
 Midas was devastated and he had learnt his lesson. Upon learning his lesson, Midas asked the angel to take his wish away.
 
 
-**_Moral of the story
-Greed is not good for you. Be content and satisfied to lead a happy and fulfilling life_**
+_**Moral of the story** <br />
+Greed is not good for you. Be content and satisfied to lead a happy and fulfilling life_
 
  
 
 ## The Tortoise and the Hare
 
 This is an extremely popular story about a hare and a tortoise.
-The hare is an animal that is known to move quickly, while a tortoise is one to move slowly.
-One day, the hare challenged the tortoise to a race simply to prove that he was the best. The tortoise agreed.
+
+
+The hare is an animal that is known to move quickly, while a tortoise is one to move slowly. One day, the hare challenged the tortoise to a race simply to prove that he was the best. The tortoise agreed.
+
+
 Once the race began the hare was easily able to get a head start. Upon realizing that the tortoise is far behind. The overconfident hare decided to take a nap.
-Meanwhile the tortoise, who was extremely determined and dedicated to the race was slowly nearing the finish line.
-The tortoise won the race while the hare napped. Most importantly he did it with humility and without arrogance.
 
 
-**_Moral of the story
-When you work hard and persevere, you can achieve your goals. Slow and steady wins the race_**
+Meanwhile the tortoise, who was extremely determined and dedicated to the race was slowly nearing the finish line. The tortoise won the race while the hare napped. Most importantly he did it with humility and without arrogance.
+
+
+_**Moral of the story**<br />
+When you work hard and persevere, you can achieve your goals. Slow and steady wins the race_
 
 
 
@@ -120,25 +126,37 @@ On the next day and the boy shouted “Wolf!” again and once again the village
 
 On the same day, the boy saw an actual Wolf that has terrorizing the sheep. The boy cried “Wolf! Wolf! please help me” and no villagers showed up as they believed that the boy was joking again.
 
-**_Moral of the story
-Don’t play with people’s trust, when it matters the most, they won’t believe you_**
+_**Moral of the story** <br />
+Don’t play with people’s trust, when it matters the most, they won’t believe you_
 
 
 
 ## The Three Little Pigs
+Once upon a time there lived three little piggies ena, mina and tika. One day their mother send them out into the world to learn.
 
-Three Little pigs was sent out into the world by their mother to learn.
 
 The three pigs, all decided to build a house on their own.
+
+
 The first pig built a house of straw because he didn't want to put in a lot of effort and was lazy.
+
+
 The second pig was a little less lazy than the first and he made a house of sticks.
+
+
 The third pig was hardworking and he put in lots of effort and built a house of brick and stone.
+
 One day a wolf came to attack them. He huffed and puffed and blew the house of straw.
+
+
 He then huffed and puffed and blew the house the sticks.
+
+
 He huffed and puffed and huffed and puffed at the house of bricks but eventually was out of breath and left.
 
-**_Moral of the story
-Always work hard and it will pay off. Don’t try to take shortcuts to make things work_**
+
+_**Moral of the story**
+Always work hard and it will pay off. Don’t try to take shortcuts to make things work_
  
 
 
@@ -146,18 +164,22 @@ Always work hard and it will pay off. Don’t try to take shortcuts to make thin
 
 Once there was a Fox and a stork. The Fox was selfish but he decided to invite the stork for dinner. The Stork was extremely happy to be invited and she reached his house on time.
 
+
 The Fox opened the door and invited her in. They sat on the table; The Fox served her some soup in shallow bowls. While the fox licked up his soup, the Stork couldn't drink it because she has a long beak and the bowl was too shallow.
+
 
 The next day, the Stork invited the fox over for dinner. She Served him soup as well but in two narrow vases. While the Stork enjoyed her soup and finished it, the fox went home very hungry realizing his mistake.
 
  
 
-**_Moral of the Story
-Don’t be selfish because it will come back to you at some point_**
+_**Moral of the Story**
+Don’t be selfish because it will come back to you at some point_
 
 
 ## The Ant and the Grasshopper
 The ant and the grasshopper were best friends with very different personalities.
+
+
 The grasshopper would spend his days sleeping or playing his guitar while the ant would collect food and build his ant hill. 
 
 
@@ -169,48 +191,59 @@ Soon winter came making the days and nights cold. One day the colony of ants wer
 
 The grasshopper was so busy singing and sleeping  that he didn't have enough food to last winter. The grasshopper realized his mistake.
 
-**_Moral of the Story
-Make use of opportunity while you have it_**
+_**Moral of the Story**
+Make use of opportunity while you have it_
  
 
 
 ## Be wise while counting
-One day in Akbar’s court someone asked the question, "How many crows are there in the city?", No one had the answer.
+One day in Krishnadevaraya's (king) court someone asked the question, "How many crows are there in the city?", No one had the answer.
 
-Birbal quickly replied "Four thousand three hundred and twelve". He was asked how did he know this?
 
-Birbal send " Send your man out to count the crows. If it is lesser than this number then some crows are visiting their families elsewhere and if it is more than this number, then some crows from outside are visiting their families here. Akbar was very happy with the answer and showered Birbal with gifts for his wit.
+Tenali quickly replied "Four thousand three hundred and twelve". He was asked how did he know this?
+
+
+Tenali said " Send your man out to count the crows. If it is lesser than this number then some crows are visiting their families elsewhere and if it is more than this number, then some crows from outside are visiting their families here. 
+
+
+Krishnadevaraya was very happy with the answer and showered Tenali with gifts for his wit.
  
-**_Moral of the story:
-Sometimes you have to learn to think outside of the box_**
+_**Moral of the story:**<br />
+Sometimes you have to learn to think outside of the box_
  
 ## The Monkey and the Crocodile
-This is a story from Panchatantra.
-A monkey lived on a berry tree on the River Bank. Once he saw a crocodile under the tree who looked hungry and tired. He gave the crocodile some berries, the crocodile thanked the monkey and became one of his friends. 
-The monkey would give berries to the crocodile every day. One day the monkey even gave the crocodile extra berries to take to his wife.
-His wife enjoyed the berries but told her husband that she wanted to eat the monkey's heart. She was a wicked and cunning woman. The crocodile was upset, but he decided that he needed to make his wife happy.
-On the next day, the crocodile went to the monkey and said that his wife had called him for dinner. The crocodile carried the monkey on his back across the river. He told this monkey his wife's plan. 
-The monkey had to think quickly if he wanted to save himself. He told the crocodile that he left his heart at on the berry tree and that they needed to return.
-On reaching the monkey climbed the tree and spoke. "I'm not getting down; you betrayed my trust and that means our friendship is over"
 
-**_Moral of the story
-Never betray someone who trusts you and choose your friends wisel_**
+This is a story from Panchatantra. A monkey lived on a berry tree on the River Bank. 
+
+Once he saw a crocodile under the tree who looked hungry and tired. He gave the crocodile some berries, the crocodile thanked the monkey and became one of his friends. 
+
+
+The monkey would give berries to the crocodile every day. One day the monkey even gave the crocodile extra berries to take to his wife. His wife enjoyed the berries, but told her husband that she wanted to eat the monkey's heart. She was a wicked and cunning woman. The crocodile was upset, but he decided that he needed to make his wife happy.
+
+
+On the next day, the crocodile went to the monkey and said that his wife had called him for dinner. The crocodile carried the monkey on his back across the river. While on the way he told this monkey his wife's plan. 
+
+
+The monkey had to think quickly if he wanted to save himself. He told the crocodile that he left his heart at on the berry tree and that they needed to return. On reaching shore the monkey climbed the tree and spoke. "I'm not getting down; you betrayed my trust and that means our friendship is over"
+
+_**Moral of the story** <br />
+Never betray someone who trusts you and choose your friends wisel_
 
 
 ## The foolish thief
-One day, a wealthy man came to Akbar's court in hope to get help from Birbal. The man suspected that one of his servants had stolen from him.
+One day, a wealthy man came to Krishnadevaraya's court in hope to get help from Tenali. The man suspected that one of his servants had stolen from him.
 
 
-The clever Birbal thought of a plan and gave all the merchant’s servants sticks of the same length. He also told them that the stick will grow three inches by tomorrow if they were the thief.
+The clever Tenali thought of a plan and gave all the merchant’s servants sticks of the same length. He also told them that the stick will grow three inches by tomorrow if they were the thief.
 
 
-The next day, all the servants gathered around Birbal. He noticed that one of the servant’s sticks was three inches shorter than the others. Birbal immediately understood who the thief was.
+The next day, all the servants gathered around Tenali. He noticed that one of the servant’s sticks was three inches shorter than the others. Tenali immediately understood who the thief was.
 
 
 The thief had cut the stick shorter by three inches as he thought it would grow three inches. Because of this his guilt was proven
 
-**_Moral of the story
-The truth will always come out one way or another so better to be truthful from the beginning._**
+_**Moral of the story**
+The truth will always come out one way or another so better to be truthful from the beginning._
 
 
 ## The Brahmin’s dream
@@ -221,32 +254,39 @@ On one day, he got so much rice gruel that even after completing his meal, there
 
 
 This money would help him get married to a rich woman and together they would have a son who he could scold and love in equal measure. He dreamt that when his son wouldn’t listen, he would run after him with a stick.
-Wrapped up in his dream the Brahmin picked up the stick near his bed and started hitting  the air with the stick. While flailing about, he hit the earthen pot with the stick, the pot broke and all the contents spilled over him. The Brahmin woke up with a start only to realize that everything was a dream.
 
 
-**_Moral of the story
-One should not build castles in the air._**
+Wrapped up in his dream the Brahmin picked up the stick near his bed and started hitting the air with the stick. While flailing about, he hit the earthen pot with the stick, the pot broke and all the contents spilled over him. The Brahmin woke up with a start only to realize that everything was a dream.
+
+
+_**Moral of the story**<br />
+One should not build castles in the air._
 
 
 ## The Stork and the Crab
 An old Stork lived on the side of a fish pond. He was too old to fish any longer, and he had to come up with an idea for food. Suddenly, he had a great idea.
+
+
 He stood in the water with a sad face. A crab came up to him and ask him why he was so unhappy.
 
 
 The Stork said "I've heard that this pond is going to dry up soon and now I have to fly away to another pond."
 Concerned, the crab asked the stork to save the animals in the pond as well.
+
 He would take a couple of fish in his beak and fly away towards another pond. Once he would reach far out of sight the pond, he would eat them. He did this many times.
 
 
 Now it was the crab’s turn. As they were flying the crab looked down but could not see a pond however he saw a lot of fish bones. The crab immediately realized what was happening and grabbed the stork’s throat tight with his sharp claws. The stork struggled to get free. But the crab held on. Soon the stork fell to the ground. The crab crawled back to his pond to tell the story to the rest of the pond creatures.
 
 
-**_Moral of the story
-Too much greed is bad for you and will only cause you harm_**
+_**Moral of the story**
+Too much greed is bad for you and will only cause you harm_
 
 
-## The Blue Jackal Story:
-Once there was an adventurous jackal who frequently strayed into the village looking for food. The Village was filled with dogs that scared the jackal. Although he was scared of the dogs, the jackal loved food and travelled to the city again and again.
+## The Blue Jackal Story
+Once there was an adventurous jackal who frequently strayed into the village looking for food. 
+
+The Village was filled with dogs that scared the jackal. Although he was scared of the dogs, the jackal loved food and travelled to the city again and again.
 
 
 One day, as he was going to enter a house, he heard barking. He was shocked to find a gang of dogs running towards the house. They looked violent and caused the jackal to panic. He ran and tumbled into a tub of blue dye. The dogs couldn’t see him and they ran another way.
@@ -279,7 +319,7 @@ But one day the banned pack of jackals was walking around the forest and howling
 Because of this mistake, the other animals quickly identified him as a jackal and destroyed him.
 
 
-**_Moral of the story:
-Be true to yourself and don’t pretend to be someone you are not_**
+_**Moral of the story** <br />
+Be true to yourself and don’t pretend to be someone you are not_
 
 

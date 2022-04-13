@@ -9,7 +9,7 @@
 |1 | [Clever girl, father and the Landlord](#clever-girl-father-and-the-landlord)|
 |2 | [Kafka And Little Girl](#kafka-and-little-girl)|
 
-1. ### Clever girl, father and the Landlord
+`### Clever girl, father and the Landlord`
 
     Many years ago in a small Indian village, a farmer had the misfortune Of owing a large sum of money to a village moneylender.
 
@@ -55,7 +55,7 @@
     Most complex problems do have a solution. It is only that we don’t attempt to think.
     
 
-2. ### Kafka And Little Girl
+`### Kafka And Little Girl`
     At 40, Franz Kafka (1883-1924), who never married and had no children, walked through the park in Berlin when he met a girl who was crying because she had lost her favourite doll. She and Kafka searched for the doll unsuccessfully. 
     Kafka told her to meet him there the next day and they would come back to look for her. 
     The next day, when they had not yet found the doll, Kafka gave the girl a letter "written" by the doll saying "please don't cry. I took a trip to see the world. I will write to you about my adventures."

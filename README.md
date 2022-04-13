@@ -1,6 +1,6 @@
 # Stories for the children
 
-> Click :star:if you like the project.
+> [Panchatantra stories][https://www.tell-a-tale.com/10-short-panchatantra-stories-must-read-4-6-year-old-kids/]
 
 ### Table of Contents
 
@@ -8,18 +8,18 @@
 |---- | ---------
 |1 | [Wise girl, father and the Landlord](#wise-girl-father-and-the-landlord)|
 |2 | [Ravitheja And Little Girl](#ravitheja-and-little-girl)|
-|2 | [The Golden Touch of Midas](#the-golden-touch-of-midas)|
-|2 | [The Tortoise and the Hare](#the-tortoise-and-the-hare)|
-|2 | [The Boy who cried wolf](#the-boy-who-cried-wolf)|
-|2 | [Three Little Pigs](#three-little-pigs)|
-|2 | [The Fox and the Stork](#the-fox-and-the-stork)|
-|2 | [The Ant and the Grasshopper](#the-ant-and-the-grasshopper)|
-|2 | [Be wise while counting](#be-wise-while-counting)|
-|2 | [The Monkey and the Crocodile](#the-monkey-and-the-crocodile)|
-|2 | [The foolish thief](#the-foolish-thief)|
-|2 | [The Brahmin’s dream](#the-brahmin's-dream)|
-|2 | [The Stork and the Crab](#the-stork-and-the-crab)|
-|2 | [The Blue Jackal](#the-blue-jackal)|
+|3 | [The Golden Touch of Midas](#the-golden-touch-of-midas)|
+|4 | [The Tortoise and the Hare](#the-tortoise-and-the-hare)|
+|5 | [The Boy who cried wolf](#the-boy-who-cried-wolf)|
+|6 | [Three Little Pigs](#three-little-pigs)|
+|7 | [The Fox and the Stork](#the-fox-and-the-stork)|
+|8 | [The Ant and the Grasshopper](#the-ant-and-the-grasshopper)|
+|9 | [Be wise while counting](#be-wise-while-counting)|
+|10 | [The Monkey and the Crocodile](#the-monkey-and-the-crocodile)|
+|11 | [The foolish thief](#the-foolish-thief)|
+|12 | [The Brahmin’s dream](#the-brahmin's-dream)|
+|13 | [The Stork and the Crab](#the-stork-and-the-crab)|
+|14 | [The Blue Jackal](#the-blue-jackal)|
 
 ## Wise girl, father and the Landlord
 

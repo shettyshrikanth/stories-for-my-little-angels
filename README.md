@@ -82,8 +82,6 @@ A year later Ravitheja died. Many years later, the now-adult girl found a letter
 
 Embrace the change. It's inevitable for growth. Together we can shift pain into wonder and love, but it is up to us to consciously and intentionally create that connection
 
-  **[⬆ Back to Top](#table-of-contents)**
-
 
 
 ## The Golden Touch of Midas
